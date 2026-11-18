@@ -1,5 +1,7 @@
 # Google Search Console API Skill
 
+[![Latest release](https://img.shields.io/github/v/release/nimajafari/google-search-console-api-skill)](https://github.com/nimajafari/google-search-console-api-skill/releases/latest)
+
 An [Agent Skill](https://agentskills.io/) that teaches your coding agent to use the
 [Google Search Console API](https://developers.google.com/webmaster-tools/about) properly:
 Search Analytics, URL Inspection, Sitemaps and Sites, **without blowing the quota or silently
