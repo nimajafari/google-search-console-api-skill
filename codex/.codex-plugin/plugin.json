@@ -1,0 +1,18 @@
+{
+  "name": "google-search-console-api-skill",
+  "version": "0.1.0",
+  "description": "Agent Skill for the Google Search Console API — Search Analytics, URL Inspection, Sitemaps and Sites — with quota-aware querying and a tested CLI.",
+  "author": {
+    "name": "Nima Jafari",
+    "url": "https://github.com/nimajafari"
+  },
+  "homepage": "https://github.com/nimajafari/google-search-console-api-skill",
+  "repository": "https://github.com/nimajafari/google-search-console-api-skill",
+  "license": "MIT",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Google Search Console API Skill",
+    "shortDescription": "Query Search Console data and inspect URLs within quota.",
+    "category": "Productivity"
+  }
+}

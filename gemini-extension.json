@@ -1,0 +1,8 @@
+{
+  "name": "google-search-console-api-skill",
+  "description": "Use the Google Search Console API from your coding agent — Search Analytics, URL Inspection, Sitemaps and Sites — within quota.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Nima Jafari"
+  }
+}

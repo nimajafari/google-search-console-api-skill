@@ -1,0 +1,16 @@
+{
+  "name": "nimajafari-google-search-console-api-skill",
+  "owner": {
+    "name": "Nima Jafari"
+  },
+  "metadata": {
+    "description": "Use the Google Search Console API from your coding agent — complete, correct data within quota."
+  },
+  "plugins": [
+    {
+      "name": "google-search-console-api-skill",
+      "source": "./",
+      "description": "Google Search Console API skill: Search Analytics, URL Inspection, Sitemaps, Sites."
+    }
+  ]
+}

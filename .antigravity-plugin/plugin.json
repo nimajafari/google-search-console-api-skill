@@ -1,0 +1,20 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "google-search-console-api-skill",
+  "displayName": "Google Search Console API Skill",
+  "description": "Agent Skill for the Google Search Console API — Search Analytics, URL Inspection, Sitemaps and Sites — with quota-aware querying and a tested CLI.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Nima Jafari",
+    "url": "https://github.com/nimajafari"
+  },
+  "homepage": "https://github.com/nimajafari/google-search-console-api-skill",
+  "repository": "https://github.com/nimajafari/google-search-console-api-skill",
+  "license": "MIT",
+  "keywords": ["google-search-console", "search-console-api", "seo", "search-analytics", "url-inspection", "sitemaps"],
+  "suggestedPrompts": [
+    "Pull the last 16 months of page+query data for sc-domain:example.com without hitting quota",
+    "Inspect our top 500 pages and list every one where Google chose a different canonical",
+    "Our nightly Search Console sync fails with quotaExceeded — fix it"
+  ]
+}

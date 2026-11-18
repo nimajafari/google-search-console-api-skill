@@ -1,0 +1,24 @@
+# Credentials — never commit
+client_secret*.json
+token*.json
+*-sa.json
+sa.json
+service-account*.json
+credentials*.json
+.env
+
+# Output
+*.jsonl
+gsc*.csv
+inspect-ledger.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
